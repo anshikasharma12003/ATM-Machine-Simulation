@@ -47,5 +47,6 @@ create_account(): Creates a new account with a unique account number and PIN.
 main(): Main function to run the ATM simulation program.
 
 🖥️ Example
-python
-if
+
+if __name__ == "__main__":
+    main()
