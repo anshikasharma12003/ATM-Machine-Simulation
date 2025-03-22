@@ -1,8 +1,8 @@
-💳 ATM Simulation
+# 💳 ATM Simulation
 
 Welcome to the ATM Simulation project! This program is designed to give you a virtual experience of managing an ATM account, complete with creating accounts, logging in, checking balances, making withdrawals and deposits, and viewing transaction history.
 
-🌟 Features
+## 🌟 Features
 🌐 Create a New Account: Register with a unique account number and PIN.
 
 🔐 Secure Login: Access your account with your account number and PIN.
@@ -15,7 +15,7 @@ Welcome to the ATM Simulation project! This program is designed to give you a vi
 
 📜 Transaction History: View a detailed history of your transactions.
 
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 🐍 Python 3.x
 
@@ -25,12 +25,12 @@ Prerequisites
 
 📅 datetime module (pre-installed with Python)
 
-Installation
+## Installation
 📥 Clone the Repository: Download the source code to your local machine.
 
 📂 Navigate to the Directory: Open the folder containing the source code.
 
-Usage
+## Usage
 🏃 Run the Script: Execute the atm_simulation.py file.
 
 📝 Follow Instructions: Create an account, log in, and start managing your virtual ATM account.
